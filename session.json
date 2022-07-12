@@ -1,7 +1,21 @@
-{                                                                                                      "creds": {                                                                                             "noiseKey": {                                                                                          "private": {                                                                                           "type": "Buffer",                                                                                    "data": "sKiy/tV/jIBhOoEtMRas/wrS9DeXCGKhiXmMVaozHlE="                                             },
+{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "sKiy/tV/jIBhOoEtMRas/wrS9DeXCGKhiXmMVaozHlE="
+      },
       "public": {
-        "type": "Buffer",                                                                                    "data": "l1T0QOMchWblgb8lKoE6qPnY+JulGw8+cnUlNCxxm3M="                                             }                                                                                                  },                                                                                                   "signedIdentityKey": {                                                                                 "private": {                                                                                           "type": "Buffer",                                                                                    "data": "ULIWyah7BhmyBfYD4YJWc5M6j+QsFQo1YYDa2fK3AFQ="
-      },                                                                                                   "public": {
+        "type": "Buffer",
+        "data": "l1T0QOMchWblgb8lKoE6qPnY+JulGw8+cnUlNCxxm3M="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "ULIWyah7BhmyBfYD4YJWc5M6j+QsFQo1YYDa2fK3AFQ="
+      },
+      "public": {
         "type": "Buffer",
         "data": "bEyaFRNHZHYUcnpUz9gII1Lf3Dhnz5+vu80TlBA4808="
       }
@@ -19,52 +33,7 @@
       },
       "signature": {
         "type": "Buffer",
-        "data": "cBoxKd8PaJU01kNVKVdRo/s7Bu7hgDcjL310HNwvsoNLG/FF+EA967QcqoVbWWB0GF1/jL7ZVWG0AXsuwN1T
-BQ=="
+        "data": "cBoxKd8PaJU01kNVKVdRo/s7Bu7hgDcjL310HNwvsoNLG/FF+EA96
+7QcqoVbWWB0GF1/jL7ZVWG0AXsuwN1TBQ=="
       },
       "keyId": 1
-    },
-    "registrationId": 128,
-    "advSecretKey": "075/AQ+df6dcvhpXpcfbMJpnX3Y6Nsi4zFUoRT2TXaM=",
-    "processedHistoryMessages": [
-      {
-        "key": {
-          "remoteJid": "6281288852497@s.whatsapp.net",
-          "fromMe": true,
-          "id": "FDB0507CD7715D299AE2F8AA0219ACD9"
-        },
-        "timestamp": 1657627585
-      },
-      {
-        "key": {
-          "remoteJid": "6281288852497@s.whatsapp.net",
-          "fromMe": true,
-          "id": "32EF5E2DD67755A8332A84A1A50346A7"
-        },
-        "timestamp": 1657627585
-      },
-      {
-        "key": {
-          "remoteJid": "6281288852497@s.whatsapp.net",
-          "fromMe": true,
-          "id": "56EB3B95B8E88330129FD2B9828226E3"
-        },
-        "timestamp": 1657627597
-      }
-    ],
-    "nextPreKeyId": 31,
-    "firstUnuploadedPreKeyId": 31,
-    "accountSettings": {
-      "unarchiveChats": false
-    },
-    "account": {
-      "details": "CM79vqAFELvHtZYGGAI=",
-      "accountSignature": "G8rAkjZ/W1u0FvdD/UJQqxiG91kgacl5EtsYN5NPztxwiLNOPd/t9n/FVqBD/CEaT3yh09LdS4
-/AtydmC5yiDw==",
-      "deviceSignature": "h8nmiJfNl+KUtW0X1MHZBpZrPUOZ2LDyzcKJ08qWOYJZMfKxmnEwUlyo/kCr6OWVLR7qXpCJw2c
-hZB1c3dZxAw=="
-    },
-    "me": {
-      "id": "6281288852497:42@s.whatsapp.net",
-      "name": "LuccyBot"
-    },
